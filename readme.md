@@ -12,10 +12,6 @@ This is a simple stopwatch web application built using HTML, CSS, and JavaScript
 
 ![Stopwatch Screenshot](./img/Screenshot%20(275).png)
 
-## Live Demo
-
-You can view the live demo of the project [here](https://stopwatchapplicatiowebsite.netlify.app/).
-
 ## How to Use
 
 1. **Start** the stopwatch by clicking the "Start" button.
